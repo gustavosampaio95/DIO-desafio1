@@ -1,2 +1,2 @@
 # DIO-desafio1
-Apenas para estudo, através do desafio Git/GitHub
+Repositório criado apenas para estudo, através do desafio Git/GitHub.
