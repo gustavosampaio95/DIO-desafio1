@@ -1,0 +1,3 @@
+Link para download do Git: https://git-scm.com/downloads
+
+Utilizado para aprimorar o uso do Git, através do Git Bash.
